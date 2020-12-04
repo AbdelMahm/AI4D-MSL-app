@@ -1,0 +1,737 @@
+{
+"gestes":
+
+
+[
+{
+"sign": "مُر",
+"video": "./video/مُر.mp4",
+"animation": "./animation/a.blender",
+"category":"alimentation",
+"lenght":"8s"
+"synonymes":"list"
+},
+{
+"sign": "العشا",
+"video": "./video/العشا.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"9s"
+},
+{
+"sign": "أَتَايْ",
+"video": "./video/أَتَايْ.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"6s"
+},
+{
+"sign": "الخَلْ",
+"video": "./video/الخَلْ.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"5s"
+},
+{
+"sign": "مطشة",
+"video": "./video/مطشة.mp4",
+"animation": "a",
+"category":"légumes",
+"lenght":"5s"
+},
+{
+"sign": "كَاسْكْروط",
+"video": "./video/كَاسْكْروط.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"10s"
+},
+{
+"sign": "حْرِيرَة",
+"video": "./video/حْرِيرَة.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"10s"
+},
+{
+"sign": "خبز",
+"video": "./video/خبز.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"8s"
+},
+{
+"sign": "الماكلة",
+"video": "./video/الماكلة.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"6s"
+},
+{
+"sign": "بيضة",
+"video": "./video/بيضة.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"5s"
+},
+{
+"sign": "بسطيلة",
+"video": "./video/بسطيلة.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"9s"
+},
+{
+"sign": "إجاص",
+"video": "./video/إجاص.mp4",
+"animation": "a",
+"category":"fruit",
+"lenght":"5s"
+},
+{
+"sign": "طبسيل",
+"video": "./video/طبسيل.mp4",
+"animation": "a",
+"category":"vaisselle",
+"lenght":"12s"
+},
+{
+"sign": "سَلطة",
+"video": "./video/سَلطة.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"5s"
+},
+{
+"sign": "إسباكيتي",
+"video": "./video/إسباكيتي.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"5s"
+},
+{
+"sign": "العطش",
+"video": "./video/العطش.mp4",
+"animation": "a",
+"category":"sentiment",
+"lenght":"8s"
+},
+{
+"sign": "الجوع",
+"video": "./video/الجوع.mp4",
+"animation": "a",
+"category":"sentiment",
+"lenght":"5s"
+},
+{
+"sign": "بطاطة",
+"video": "./video/بطاطة.mp4",
+"animation": "a",
+"category":"légumes",
+"lenght":"5s"
+},
+{
+"sign": "الخضرة",
+"video": "./video/الخضرة.mp4",
+"animation": "a",
+"category":"légumes",
+"lenght":"5s"
+},
+{
+"sign": "بصلة",
+"video": "./video/بصلة.mp4",
+"animation": "a",
+"category":"légumes",
+"lenght":"5s"
+},
+{
+"sign": "جْلْبَانَة",
+"video": "./video/جْلْبَانَة.mp4",
+"animation": "a",
+"category":"légumes",
+"lenght":"5s"
+},
+{
+"sign": "الحليب",
+"video": "./video/الحليب.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"12s"
+},
+{
+"sign": "الزيت",
+"video": "./video/الزيت.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"5s"
+},
+{
+"sign": "فطور",
+"video": "./video/فطور.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"7s"
+},
+
+{
+"sign": "العجينة",
+"video": "./video/العجينة.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"16s"
+},
+{
+"sign": "القهوة",
+"video": "./video/القهوة.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"9s"
+},
+
+{
+"sign": "مشروب",
+"video": "./video/مشروب.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"7s"
+},
+{
+"sign": "كرنب",
+"video": "./video/كرنب.mp4",
+"animation": "a",
+"category":"légumes",
+"lenght":"5s"
+},
+{
+"sign": "صفر",
+"video": "./video/صفر.mp4",
+"animation": "a",
+"category":"coleurs",
+"lenght":"3s"
+},
+
+{
+"sign": "بيض",
+"video": "./video/بيض.mp4",
+"animation": "a",
+"category":"coleurs",
+"lenght":"4s"
+},
+{
+"sign": "كحل",
+"video": "./video/كحل.mp4",
+"animation": "a",
+"category":"coleurs",
+"lenght":"4s"
+},
+{
+"sign": "حمر",
+"video": "./video/حمر.mp4",
+"animation": "a",
+"category":"coleurs",
+"lenght":"3s"
+},
+{
+"sign": "خضر",
+"video": "./video/خضر.mp4",
+"animation": "a",
+"category":"coleurs",
+"lenght":"3s"
+},
+{
+"sign": "وردي",
+"video": "./video/وردي.mp4",
+"animation": "a",
+"category":"coleurs",
+"lenght":"2s"
+},
+{
+"sign": "بني",
+"video": "./video/بني.mp4",
+"animation": "a",
+"category":"coleurs",
+"lenght":"3s"
+},
+
+{
+"sign": "زرق",
+"video": "./video/زرق.mp4",
+"animation": "a",
+"category":"coleurs",
+"lenght":"3s"
+},
+{
+"sign": "اللموني",
+"video": "./video/اللموني.mp4",
+"animation": "a",
+"category":"coleurs",
+"lenght":"4s"
+},
+{
+"sign": "حزين",
+"video": "./video/حزين.mp4",
+"animation": "a",
+"category":"sentiment",
+"lenght":"7s"
+},
+{
+"sign": "مغيار",
+"video": "./video/مغيار.mp4",
+"animation": "a",
+"category":"sentiment",
+"lenght":"8s"
+},
+{
+"sign": "الضحك",
+"video": "./video/الضحك.mp4",
+"animation": "a",
+"category":"actions",
+"lenght":"6s"
+},
+{
+"sign": "شكرا",
+"video": "./video/شكرا.mp4",
+"animation": "a",
+"category":"actions",
+"lenght":"4s"
+},
+{
+"sign": "اختار",
+"video": "./video/اختار.mp4",
+"animation": "a",
+"category":"actions",
+"lenght":"6s"
+},
+
+{
+"sign": "تفاجئ",
+"video": "./video/تفاجئ.mp4",
+"animation": "a",
+"category":"sentiment",
+"lenght":"9s"
+},
+{
+"sign": "حر",
+"video": "./video/حر.mp4",
+"animation": "a",
+"category":"sentiment",
+"lenght":"9s"
+},
+{
+"sign": "عيان",
+"video": "./video/عيان.mp4",
+"animation": "a",
+"category":"sentiment",
+"lenght":"3s"
+},
+{
+"sign": "دري صغير",
+"video": "./video/دريصغير.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"4s"
+},
+{
+"sign": "دري صغير",
+"video": "./video/دريصغير.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"4s"
+},
+{
+"sign": "خالتي",
+"video": "./video/خالتي.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"6s"
+},
+{
+"sign": "ختي",
+"video": "./video/ختي.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"4s"
+},
+{
+"sign": "الوالدين",
+"video": "./video/الوالدين.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"3s"
+},
+{
+"sign": "ولد عمي",
+"video": "./video/ولدعمي.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"4s"
+},
+{
+"sign": "رجل",
+"video": "./video/رجل.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"3s"
+},
+{
+"sign": "شيباني",
+"video": "./video/شيبانيس.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"3s"
+},
+{
+"sign": "جار",
+"video": "./video/جار.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"3s"
+},
+{
+"sign": "امرأة",
+"video": "./video/امرأة.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"4s"
+},
+{
+"sign": "جدي",
+"video": "./video/جدي.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"7s"
+},
+{
+"sign": "جدتي",
+"video": "./video/جدتي.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"8s"
+},
+{
+"sign": "خويا",
+"video": "./video/خويا.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"4s"
+},
+
+{
+"sign": "صاحْبِي",
+"video": "./video/صاحْبِي.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"3s"
+},
+{
+"sign": "ولد",
+"video": "./video/ولد.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"5s"
+},
+{
+"sign": "بنت",
+"video": "./video/بنت.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"2s"
+},
+{
+"sign": "ولدي",
+"video": "./video/ولدي.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"5s"
+},
+{
+"sign": "بابا",
+"video": "./video/بابا.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"4s"
+},
+{
+"sign": "خروف",
+"video": "./video/خروف.mp4",
+"animation": "a",
+"category":"animaux",
+"lenght":"5s"
+},
+
+{
+"sign": "الانتخبات",
+"video": "./video/الانتخبات.mp4",
+"animation": "a",
+"category":"élection",
+"lenght":"1s"
+},
+{
+"sign": "زبدة",
+"video": "./video/زبدة.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"3s"
+},
+
+{
+"sign": "فرشيطة",
+"video": "./video/فرشيطة.mp4",
+"animation": "a",
+"category":"vaisselle",
+"lenght":"5s"
+},
+{
+"sign": "تشجيع",
+"video": "./video/تشجيع.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"3s"
+},
+{
+"sign": "تعال",
+"video": "./video/تعال.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"5s"
+},
+{
+"sign": "قبل",
+"video": "./video/قبل.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"4s"
+},
+
+{
+"sign": "بهو",
+"video": "./video/بهو.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"5s"
+},
+
+{
+"sign": "زواج",
+"video": "./video/زواج.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"4s"
+},
+
+{
+"sign": "الزوج",
+"video": "./video/الزوج.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"4s"
+},
+{
+"sign": "ماما",
+"video": "./video/ماما.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"4s"
+},
+{
+"sign": "رضيع",
+"video": "./video/رضيع.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"3s"
+},
+{
+"sign": "اعمى",
+"video": "./video/اعمى.mp4",
+"animation": "a",
+"category":"individus",
+"lenght":"3s"
+},
+
+
+{
+"sign": "سرير",
+"video": "./video/سرير.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"4s"
+},
+{
+"sign": "زاوية",
+"video": "./video/زاوية.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"5s"
+},
+
+{
+"sign": "قوي",
+"video": "./video/قوي.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"6s"
+},
+{
+"sign": "اغلق",
+"video": "./video/اغلق.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"5s"
+},
+
+{
+"sign": "جلس",
+"video": "./video/جلس.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"4s"
+},
+
+{
+"sign": "تخيل",
+"video": "./video/تخيل.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"8s"
+},
+{
+"sign": "باب",
+"video": "./video/باب.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"4s"
+},
+
+{
+"sign": "شرب",
+"video": "./video/شرب.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"3s"
+},
+
+{
+"sign": "الحب",
+"video": "./video/الحب.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"3s"
+},
+
+{
+"sign": "فهم",
+"video": "./video/فهم.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"4s"
+},
+
+
+{
+"sign": "كابوس",
+"video": "./video/كابوس.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"6s"
+},
+{
+"sign": "فكرة",
+"video": "./video/فكرة.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"4s"
+},
+{
+"sign": "طبخ",
+"video": "./video/طبخ.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"4s"
+},
+{
+"sign": "سكين",
+"video": "./video/سكين.mp4",
+"animation": "a",
+"category":"vaisselle",
+"lenght":"5s"
+},
+{
+"sign": "كسكس",
+"video": "./video/كسكس.mp4",
+"animation": "a",
+"category":"alimentation",
+"lenght":"3s"
+},
+{
+"sign": "كاس",
+"video": "./video/كاس.mp4",
+"animation": "a",
+"category":"vaisselle",
+"lenght":"4s"
+},
+{
+"sign": "بقرة",
+"video": "./video/بقرة.mp4",
+"animation": "a",
+"category":"animaux",
+"lenght":"4s"
+},
+{
+"sign": "فروج",
+"video": "./video/فروج.mp4",
+"animation": "a",
+"category":"animaux",
+"lenght":"4s"
+},
+{
+"sign": "فران",
+"video": "./video/فران.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"3s"
+},
+{
+"sign": "مفتاح",
+"video": "./video/مفتاح.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"5s"
+},
+{
+"sign": "احساس",
+"video": "./video/احساس.mp4",
+"animation": "a",
+"category":"sentiment",
+"lenght":"7s"
+},
+{
+"sign": "قرر",
+"video": "./video/قرر.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"6s"
+},
+
+{
+"sign": "اعتذر",
+"video": "./video/اعتذر.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"3s"
+},
+{
+"sign": "ذكي",
+"video": "./video/ذكي.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"5s"
+},
+{
+"sign": "كره",
+"video": "./video/كره.mp4",
+"animation": "a",
+"category":"plusieurs",
+"lenght":"4s"
+}
+]
+}
