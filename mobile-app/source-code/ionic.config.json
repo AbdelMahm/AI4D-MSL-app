@@ -1,0 +1,7 @@
+{
+  "name": "ai4d",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

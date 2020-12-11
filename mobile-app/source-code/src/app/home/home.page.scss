@@ -1,0 +1,132 @@
+.cback
+{
+
+    // background-size: 100%;
+    width: 100%;
+    height: 87%;
+    position: relative;
+    border-style: solid;
+    background-repeat:no-repeat;
+}
+
+.gestControl
+{
+    top: 50%;
+    margin-left: 10px;
+    width: 40px;height: 180px;;
+    //background-color: white;
+    border-style: solid;
+    border-radius: 30px;
+    position: absolute;
+}
+
+.textControl
+{
+    width: 100%;height: 50px;;
+    background-color: white;
+    border-style: solid;
+    border-radius: 30px;
+    padding-left:10px;
+    font-size: 30px;
+    position: relative;
+    border-color: #EF6C00;
+}
+
+.recordR
+{
+    border-style:solid;
+    height : 50px;
+    width:50px;
+    border-radius: 80px;
+    position: relative;
+    background-color: #EF6C00;
+    border-color: #EF6C00;
+}
+.recordP
+{
+    border-style:solid;
+    height : 80px;
+    width: 80px;
+    border-radius: 80px;
+    position: relative;
+    background-color: #EF6C00;
+    border-color: #EF6C00;
+}
+
+.mic
+{
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin: 0;
+  position: absolute;
+  top: 50%;
+
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color:white;
+  font-size: 22px;
+}
+
+.controls
+{
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin: 0;
+  position: absolute;
+  top: 50%;
+
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color:black;
+  font-size: 22px;
+}
+
+.more
+
+{
+    color:#EF6C00;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+
+}
+
+.typing
+{
+    position: absolute;
+    width:auto;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width:auto;
+    font-size: 11px;
+}
+
+.vspace
+{
+    height: 8px;
+}
+
+ion-select{
+    max-width: 100% !important;
+    width:100% !important;
+    background-color: transparent !important;
+}
+.item-content
+{
+    width: 100%;
+    background-color: transparent!important;
+}
+
+scene-fbx-loader {
+    .no-scroll .scroll-content{
+        overflow: hidden;
+   }
+}
