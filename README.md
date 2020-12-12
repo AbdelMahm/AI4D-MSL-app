@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/318501474.svg)](https://zenodo.org/badge/latestdoi/318501474)
+
 # Arabic Speech-to-Moroccan Sign Language Translator: “Learning for Deaf”
 Abdelhak Mahmoudi, April 1st, 2020
 
